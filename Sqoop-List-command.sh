@@ -24,6 +24,3 @@ sqoop list-tables \
  # listing all tabels in a data base 
  
   sqoop list-tables   --connect jdbc:mysql://localhost/reatil_database --username labuser  --password simplilearn
-  
-  
-  
